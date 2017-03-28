@@ -1,0 +1,19 @@
+{
+  "name": "node-api-rest",
+  "version": "2.0.0",
+  "dependencies": {
+    "express": "^4.7.1",
+    "method-override": "^2.1.2",
+    "body-parser": "^1.5.1"
+  },
+  "description": "ApiGateway",
+  "main": "app.js",
+  "devDependencies": {
+    "aws4":"^1.6.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "ealtamar",
+  "license": "ISC"
+}
